@@ -1,0 +1,9 @@
+./bin/deceptive_maisette
+./bin/knowledge_gaps
+./bin/collapsed_rule
+./bin/deceptive_maisette
+./bin/knowledge_gaps
+./bin/collapsed_rule
+./bin/deceptive_maisette
+./bin/knowledge_gaps
+./bin/collapsed_rule
